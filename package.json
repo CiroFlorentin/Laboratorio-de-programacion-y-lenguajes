@@ -1,0 +1,20 @@
+{
+  "name": "laboratorio-de-programacion-y-lenguajes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CiroFlorentin/Laboratorio-de-programacion-y-lenguajes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CiroFlorentin/Laboratorio-de-programacion-y-lenguajes/issues"
+  },
+  "homepage": "https://github.com/CiroFlorentin/Laboratorio-de-programacion-y-lenguajes#readme",
+  "description": ""
+}
